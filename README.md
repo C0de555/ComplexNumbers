@@ -19,6 +19,3 @@ Example:
 
 etc.
 
-Use the skeleton code below to help you start.
-Note: The method parameters are not included in the skeleton. You would have to
-      decide what to add in yourself.
